@@ -66,5 +66,6 @@
 	"Visual_DurationUnit_Minutes": "Minutes",
 	"Visual_DurationUnit_Seconds": "Seconds",
 	"Visual_DurationMinimum": "Duration min",
-	"Visual_FullText": "Full text"
+	"Visual_FullText": "Full text",
+	"Visual_WidthByTask": "Width by task"
 }
