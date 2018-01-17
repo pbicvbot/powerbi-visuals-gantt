@@ -67,5 +67,10 @@
 	"Visual_DurationUnit_Seconds": "Seconds",
 	"Visual_DurationMinimum": "Duration min",
 	"Visual_FullText": "Full text",
-	"Visual_WidthByTask": "Width by task"
+	"Visual_WidthByTask": "Width by task",
+	"Role_Parent": "Parent",
+	"Visual_SubTasks": "Sub tasks",
+	"Visual_InheritParentLegend": "Inherit parent legend",
+	"Visual_ParentDurationByChildren": "Parent duration by children",
+	"Visual_ParentCompletionByChildren": "Parent completion by children"
 }
