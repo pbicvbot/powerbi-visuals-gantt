@@ -72,5 +72,6 @@
 	"Visual_SubTasks": "Sub tasks",
 	"Visual_InheritParentLegend": "Inherit parent legend",
 	"Visual_ParentDurationByChildren": "Parent duration by children",
-	"Visual_ParentCompletionByChildren": "Parent completion by children"
+	"Visual_ParentCompletionByChildren": "Parent completion by children",
+	"Role_Tooltips": "Tooltips"
 }
